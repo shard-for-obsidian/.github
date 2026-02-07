@@ -76,5 +76,3 @@ We welcome contributions from the community! Whether you're a developer, securit
 ---
 
 <sub>⚠️ **EXPERIMENTAL**: Shard is under active development. Use with caution in production environments.</sub>
-
-<sub>Built with ❤️ for the Obsidian community</sub>
