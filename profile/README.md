@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/gillisandrew/shard/blob/main/docs/attachments/shard-full-logo.png?raw=true" width="256" alt="Shard for Obsidian logo" />
-</p>
-
 # Shard Plugin System for Obsidian
 
 Welcome to **Shard for Obsidian** — an experimental plugin system for managing [Obsidian](https://obsidian.md) plugins distributed via GitHub Container Registry (GHCR).
